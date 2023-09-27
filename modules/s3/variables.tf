@@ -1,0 +1,9 @@
+# s3 variables
+variable "project_name" {}
+variable "environment" {}
+variable "costcenter" {}
+variable "createdby" {}
+variable "data_sensitivity" {}
+variable "cloud_trail_bucket_name" {}
+variable "cloud_watch_bucket_name" {}
+variable "appstream_usage_report_s3_bucket_name" {}
